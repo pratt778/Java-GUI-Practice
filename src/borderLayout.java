@@ -53,10 +53,6 @@ public class borderLayout {
         frame.add(panel3,BorderLayout.NORTH);
         frame.add(panel4,BorderLayout.SOUTH);
         frame.add(panel5,BorderLayout.CENTER);
-
-
-
-
         frame.setVisible(true);
 
     }
