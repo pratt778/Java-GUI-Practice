@@ -10,7 +10,7 @@ public class Layouts {
         //leading makes the layout stick on the left side of the frame,
         // you can also use left instead of leading
         //default is center
-
+        //this is just to check if the git clone works
         // Grid Layout
         //places components in the grid of cells
         //Each component takes the available space within its cells
